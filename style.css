@@ -4,6 +4,7 @@
     margin: 0;
     box-sizing: border-box;
     font-family: 'Poppins', sans-serif;
+    scroll-behavior: smooth;
 }
 /* rgb(63, 63, 203) */
 /* rgb(200, 200, 200) */
